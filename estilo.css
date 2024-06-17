@@ -1,0 +1,87 @@
+body{
+    text-align: center;
+}
+.div1 .pata{
+    width: 25px;
+}
+.div1 h1, h2{
+    font-family:  Arial, Helvetica, sans-serif; 
+    font-size: medium;
+    color: #421842;
+    text-align: justify;
+}
+a{  
+    background-color: #421842;
+    color: aliceblue;
+}
+.div2{
+    background-image: url(banner-topo.jpg);
+    background-size: cover;
+    height: 600px;
+}
+.div2 h1{
+    padding-top: 15%;
+    text-align: center;
+    font-family:  Arial, Helvetica, sans-serif; 
+    color: #421842;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.div3{
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family:  Arial, Helvetica, sans-serif; 
+}
+.div4 img{
+    width: 35px;
+}
+.div5{}
+.div6 img{
+    width: 35px;
+}
+.div4 h1{
+    padding-top: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family:  Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    font-style: normal; 
+}
+.div4, .div6{
+    background-color: #421842;
+    height: 400px;
+}
+.div6 h1{
+    padding-top: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+.span1{
+    color: #421842;
+}
+.span2{
+    color: aliceblue;
+}
+.zap, .insta, .face{
+    width: 25px;
+}
+.div7{
+    padding-top: 5%;
+}
+.div7 p{
+    padding-bottom: 5%;
+}
+.div7 p, h1{
+    color: #421842;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div8{
+    background-color: #421842;
+}
+.div8  h1{
+    color: aliceblue;
+    font-size: medium;
+}
